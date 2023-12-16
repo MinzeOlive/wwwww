@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wwwww:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wwwww_jar</output-path>
+    <root id="archive" name="wwwww.jar">
+      <element id="module-output" name="wwwww" />
+    </root>
+  </artifact>
+</component>
